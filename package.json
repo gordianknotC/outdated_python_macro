@@ -1,0 +1,14 @@
+
+{
+    "name"     : "RapydscriptUnittest",
+    "version"  : "0.0.1",
+    "main"     : "__init__.html",
+    "window"   : {
+       "width"  : 900,
+       "height" : 600,
+       "show"   : true,
+       "title"  : "rapydscript test",
+       "toolbar": true,
+       "frame"  : true
+    }
+}
